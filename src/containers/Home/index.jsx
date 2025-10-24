@@ -1,14 +1,14 @@
-import  Header  from "../../components/Header"
+
 
 function Home() {
 
 
     return (
-        <>
-
-            <Header />
-           
-        </>
+        <div>
+            <h1>HOME SECTION</h1>
+        
+          
+        </div>
     )
 
 
