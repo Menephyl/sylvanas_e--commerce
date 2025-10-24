@@ -4,3 +4,5 @@ Desenvolvimento de e-commerce para um cliente
 ![alt text](image.png)
 
 -> instalando vite + react 
+-> eliminando o que nao precisa. 
+-> instalando dependencias e organizando pastas 
