@@ -6,3 +6,5 @@ Desenvolvimento de e-commerce para um cliente
 -> instalando vite + react 
 -> eliminando o que nao precisa. 
 -> instalando dependencias e organizando pastas 
+-> fonts google
+-> assets / produtos

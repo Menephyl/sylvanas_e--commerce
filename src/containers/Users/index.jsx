@@ -1,8 +1,10 @@
-function Users () {
+import Header from "../../components/Header"
+function User() {
     <div>
-        <h1>
-            User page 
-        </h1>
+        <Header />
+        <span>
+            USER PAGE
+        </span>
     </div>
 }
-export default Users
+export default User
