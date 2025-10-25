@@ -2,9 +2,7 @@
 function User() {
     <div>
        
-        <span>
-            USER PAGE
-        </span>
+    <h1>User Page</h1>
     </div>
 }
 export default User
